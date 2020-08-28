@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Absolutely Awesome Automated APIs - PyGotham 2019</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/styles/site.css?1598642381575425378">
+
+    <link rel="icon" href="/static/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="/static/images/apple-touch-icon.png">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link type="application/atom+xml" rel="alternate" href="https://2019.pygotham.org/feed.xml" title="PyGotham 2019" />
+  </head>
+  <body class="talk">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a href="/" class="navbar-brand">
+        <img src="/static/images/logo.svg" alt="PyGotham 2019">
+      </a>
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+        data-target="#pg-navbar-collapse" aria-controls="pg-navbar-collapse"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end" id="pg-navbar-collapse">
+        <ul class="navbar-nav">
+          
+          <li class="nav-item dropdown">
+            <a href="/about/" class="dropdown-toggle"
+              data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              About
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              <a href="/about/" class="dropdown-item">What is
+                PyGotham?</a>
+              <a href="/about/accessibility/"
+                class="dropdown-item">Accessibility</a>
+              <a href="/about/childcare/" class="dropdown-item">Childcare</a>
+              <a href="/about/code-of-conduct/"
+                class="dropdown-item">Code of Conduct</a>
+              <a href="/about/diversity/"
+                class="dropdown-item">Diversity</a>
+              <a href="/about/privacy-policy/"
+                class="dropdown-item">Privacy Policy</a>
+              <a href="/about/faq/" class="dropdown-item">FAQ</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+              role="button" aria-haspopup="true" aria-expanded="false">
+              Events
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              
+              
+                <a href="/talks/" class="dropdown-item">Talk
+                  List</a>
+                
+                
+                  <a href="/talks/schedule/"
+                    class="dropdown-item">Talk Schedule</a>
+                
+              
+              <a href="/events/socialevent/"
+                class="dropdown-item">Social Event</a>
+              
+              
+            </div>
+          </li>
+
+          
+          <li class="nav-item"><a href="/registration/">Registration</a></li>
+
+          
+            <li class="nav-item">
+              <a href="https://cfp.pygotham.org">Call for Proposals</a>
+            </li>
+          
+
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="/sponsors/" class="dropdown-toggle"
+              data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              Sponsors
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              <a href="/sponsors/"
+                class="dropdown-item">Sponsors</a>
+              <a href="/sponsors/prospectus/"
+                class="dropdown-item">Prospectus</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item"><a href="/venue/">Venue</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <section class="main">
+  <div class="container">
+    
+      <h1>Absolutely Awesome Automated APIs</h1>
+    
+
+    
+  <small>
+    11:15am
+    
+      
+      - 11:55am
+    
+    on Friday, October 4
+    
+      in PennTop North
+    
+  </small>
+
+
+<h4>
+  
+    
+    <a href="/speakers/timothy-allen/">Timothy Allen</a>
+  
+</h4>
+
+<dl>
+  
+
+  
+    <dt>Slides:</dt>
+    <dd><a href="https://speakerdeck.com/flipperpa/pygotham-absolutely-awesome-automated-apis">https://speakerdeck.com/flipperpa/pygotham-absolutely-awesome-automated-apis</a></dd>
+  
+
+  
+    <dt>Watch:</dt>
+    <dd><a href="https://youtu.be/dFwemQATgUU">https://youtu.be/dFwemQATgUU</a></dd>
+  
+</dl>
+
+
+
+
+
+<h3>Description</h3>
+<p>When you have 60,000 tables and views across hundreds of schemata sitting on
+top of a 3 petabyte storage footprint, automation and access privileges are
+key if you want to expose these data through a RESTful API. Our University’s
+research service leverages Python, Django, Django REST Framework, and
+PostgreSQL to accomplish this. We are continuing to open source the tools we
+have built to make this possible!</p>
+
+<p>Databases stay relevant by continuing to reinvent themselves to serve new
+technologies further up the stack. The latest buzzwords further up that
+stack are APIs and microservices, so prevalent that it is hard to see a tech
+advertisement that doesn’t mention them. While related to “the cloud” and
+“big data”, whatever the heck those terms actually mean, APIs and
+microservices have a slightly less annoying marketing schtick and more
+concrete relations to relational databases.</p>
+
+<p>But what do these relations look like in practice? In this talk, the speaker
+will show how his team at the University has evolved from providing
+financial data exclusively in SAS data formats to a robust backend powered
+by PostgreSQL, which allows financial research to happen in many ecosystems:
+still available in SAS, but also R, Python, Perl, Matlab, Julia, and more.
+The speaker will present a case study of using Django REST Framework to
+build an “API through introspection.” This case study will show how Django
+web site and RESTful web service were built by introspecting financial data
+stored in a PostgreSQL database cluster.</p>
+
+<p>The models for the ORM, serializers for the RESTful API, views for
+presenting the data to a user, filters for refining queries, URL routing,
+web browsable interface, user token authorization, and permissions, are all
+created by introspecting the PostgreSQL database information schema, all
+with Python. These components have now been open-sourced, including the
+endpoint spreadsheet exporter and the generic automated API builder.</p>
+
+
+
+  </div>
+</section>
+
+
+    <div class="edit-this-page">
+      <a href="https://gitlab.com/pygotham/2019/edit/master/_talks/absolutely-awesome-automated-apis.md">
+        Want to edit this page?
+      </a>
+    </div>
+
+    <footer>
+      <section class="container credits">
+        PyGotham 2019 is a production of
+        <a href="https://bigapplepy.org">Big Apple Py</a>.<br>
+
+        Artwork by <a href="https://www.jessiesima.com">Jessie Sima</a>. UX by
+        <a href="https://www.linkedin.com/in/allisonrcameron">
+          Allison Cameron</a>.
+
+        <br>
+
+        Questions? Comments? Please contact
+        <a href="mailto:organizers@pygotham.org">organizers@pygotham.org</a>.<br>
+        
+          <a href="https://gitlab.com/pygotham/2019">Help improve this site!</a>
+        
+      </section>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="/static/scripts/bootstrap.min.js"></script>
+    <script>
+      var today = new Date();
+      $('div.day-of').each(function() {
+        var $this = $(this);
+
+        var start = new Date($this.data('start'));
+        var end = new Date($this.data('end'));
+
+        if (start <= today && today < end) {
+          $this.show();
+        }
+      });
+    </script>
+  </body>
+</html>

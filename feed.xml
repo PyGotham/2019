@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://2019.pygotham.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://2019.pygotham.org/" rel="alternate" type="text/html" /><updated>2020-08-28T19:19:41+00:00</updated><id>https://2019.pygotham.org/feed.xml</id><title type="html">PyGotham 2019</title><subtitle>PyGotham is a New York City based, eclectic, Py-centric conference covering many topics. There is a diverse speaker list, and some things which will be quite different. PyGotham attracts developers of various backgrounds and skill levels from the New York metropolitan area and beyond. Activities include two full days of talks, lightning talk sessions, and a social event.
+</subtitle><author><name>PyGotham</name></author><entry><title type="html">Code of Conduct Transparency Report</title><link href="https://2019.pygotham.org/2020/03/16/code-of-conduct-transparency-report/" rel="alternate" type="text/html" title="Code of Conduct Transparency Report" /><published>2020-03-16T04:00:00+00:00</published><updated>2020-03-16T04:00:00+00:00</updated><id>https://2019.pygotham.org/2020/03/16/code-of-conduct-transparency-report</id><content type="html" xml:base="https://2019.pygotham.org/2020/03/16/code-of-conduct-transparency-report/">&lt;p&gt;PyGotham strives to be a friendly and welcoming environment, and we take our
+code of conduct seriously. In the spirit of transparency, we publish a summary
+of the reports we received this year.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;We appreciate those reports, and we encourage anyone who witnesses a code of
+conduct violation to report it via the methods listed at
+&lt;a href=&quot;https://2019.pygotham.org/about/code-of-conduct/&quot;&gt;https://2019.pygotham.org/about/code-of-conduct/&lt;/a&gt;. PyGotham 2019 had four
+code of conduct reports made to the organizers. Anonymized details of these
+reports are below.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;During the public voting phase of PyGotham’s talk selection process, a voter used the code of
+conduct report form to report an issue unrelated to the code of conduct. Conference staff
+confirmed that this was not a code of conduct incident with the reporter, and no further action
+was taken.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;During the public voting phase of PyGotham’s talk selection process, a report was made regarding
+possible usage rights in a data collection process covered by the proposed talk. Copyright and /
+or terms of service violations are out of scope for PyGotham’s code of conduct. No further action
+was taken.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An attendee made a joke about a turtle with no legs. Another attendee approached them to let them
+know that they should not have made the joke and should apologize. The first attendee reported
+themself and apologized.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Code of Conduct committee received a report that a vendor had violated a professional code of
+conduct. Conference staff agreed that this did not violate PyGotham’s code of conduct, and
+communicated this with the reporter. No further action was taken.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>PyGotham</name></author><summary type="html">PyGotham strives to be a friendly and welcoming environment, and we take our code of conduct seriously. In the spirit of transparency, we publish a summary of the reports we received this year.</summary></entry><entry><title type="html">ASL &amp;amp; Captioning Playbook</title><link href="https://2019.pygotham.org/2019/11/08/asl-and-captioning-playbook/" rel="alternate" type="text/html" title="ASL &amp; Captioning Playbook" /><published>2019-11-08T04:00:00+00:00</published><updated>2019-11-08T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/11/08/asl-and-captioning-playbook</id><content type="html" xml:base="https://2019.pygotham.org/2019/11/08/asl-and-captioning-playbook/">&lt;p&gt;At PyGotham 2019 we provided live captioning and, for the first time, we offered American Sign Language interpretation and did targeted outreach to groups of Deaf programmers. As a result, we had a half-dozen Deaf attendees, and they reported they were able to fully participate in the conference in a way they hadn’t experienced before. I (A. Jesse Jiryu Davis) led our effort to provide ASL and captioning; I hope this recap can serve as a playbook for other conferences.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;blockquote style=&quot;text-align:center&quot; class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;It was downright incredible having both ASL and CART in every track + interpreters willing to follow me to hallway conversations. Being able to approach a speaker after their talk, then get so engrossed in the ensuing conversation that we slide in slightly late to the closing +&lt;/p&gt;&amp;mdash; Mel Chua (@mchua) &lt;a href=&quot;https://twitter.com/mchua/status/1181012741580099587?ref_src=twsrc%5Etfw&quot;&gt;October 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;+ keynote, seamlessly and without needing to read lips or use my voice, was something I had NEVER done before. I've never experienced a tech conf this way — and I used to organize them.&lt;br /&gt;&lt;br /&gt;(to be fair, the &quot;late&quot; was b/c convo with other Deaf attendees - ALSO rare and newer-to-me).&lt;/p&gt;&amp;mdash; Mel Chua (@mchua) &lt;a href=&quot;https://twitter.com/mchua/status/1181013796745367553?ref_src=twsrc%5Etfw&quot;&gt;October 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Seriously. I flew in to a regional Python conference *outside* my own region *solely* because they had this sort of access. &lt;a href=&quot;https://twitter.com/brainwane?ref_src=twsrc%5Etfw&quot;&gt;@brainwane&lt;/a&gt; told me about it 11 days before the conf, I found out who was providing services, and immediately got a ticket and booked flights. WOULD DO AGAIN&lt;/p&gt;&amp;mdash; Mel Chua (@mchua) &lt;a href=&quot;https://twitter.com/mchua/status/1181015598727405569?ref_src=twsrc%5Etfw&quot;&gt;October 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
+
+&lt;p&gt;Early in the PyGotham 2019 planning process, we decided to provide captioning for all talks, typed in real time by a human. (This is also known as “communication access real-time translation” or CART.)&lt;/p&gt;
+
+&lt;p&gt;Captioning benefits Deaf attendees, of course, but we could think of many other groups it would help. People who are hard of hearing have a less obvious disability than those who are Deaf, but they benefit from captioning, too. We want our conference to be welcoming to older programmers, and many of them are likely to be hard of hearing. Captioning helps people who speak English as a second language and people with ADHD. In fact, &lt;em&gt;everyone&lt;/em&gt; who attends PyGotham will misunderstand some words, or space out for a minute; captioning helps all of us.&lt;/p&gt;
+
+&lt;p&gt;As a final bonus, we can take the captions that our stenographers typed during the talks and use them as YouTube captions when we publish the talks later, instead of relying on YouTube’s absurd auto-captioning.&lt;/p&gt;
+
+&lt;p&gt;But captioning alone doesn’t provide full access to Deaf attendees who use ASL. We decided to also hire ASL interpreters for all three conference tracks. Interpreters provide maximum access for people whose primary language is ASL, they enable Deaf people to ask questions of the speaker, and they permit communication among Deaf and hearing attendees in the hallways and at meals.&lt;/p&gt;
+
+&lt;h2 id=&quot;hiring-professionals&quot;&gt;Hiring Professionals&lt;/h2&gt;
+
+&lt;p&gt;We chose White Coat Captioning as our live captioning service. They seemed like the right provider—they captioned PyCon in 2018 and 2019, and the PyCon organizers praised them. One of White Coat’s staff is Mirabai Knight; she founded &lt;a href=&quot;http://www.openstenoproject.org&quot;&gt;an open-source stenography project written in Python&lt;/a&gt;, and she had captioned PyGotham before and &lt;a href=&quot;https://pyvideo.org/pygotham-2016/hackingtypingwriting-at-200-words-per-minute.html&quot;&gt;participated in a PyGotham talk about stenography&lt;/a&gt;, so we felt a special connection. We arranged for Mirabai to be on site in our largest room, where keynotes and lightning talks happen along with one of the three regular tracks. The two smaller rooms would be captioned by remote staff listening via Google Hangouts.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;❤️ this. &lt;a href=&quot;https://twitter.com/hashtag/PyGotham?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#PyGotham&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/pygotham2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#pygotham2019&lt;/a&gt; &lt;a href=&quot;https://t.co/hlmrRlp7UE&quot;&gt;pic.twitter.com/hlmrRlp7UE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sartaj Singh (@leosartaj03) &lt;a href=&quot;https://twitter.com/leosartaj03/status/1180215496613998594?ref_src=twsrc%5Etfw&quot;&gt;October 4, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;We evaluated two sign language interpretation agencies. A couple of my friends are ASL interpreters and they advised me to seek agencies that provide interpreters certified by the Registry of Interpreters for the Deaf, who have experience interpreting at tech conferences or software companies. Agencies that specialize in sign language interpretation are likely to be better quality than agencies that also do spoken languages. We chose Lydia Callis Interpreting Services. LCIS assigned us local interpreters with tech experience. The contract was reasonably priced and very flexible: with a few days notice we could ask for more interpreters, or fewer, or cancel altogether. This reassured us we could arrange ASL services but cancel if no Deaf people registered.&lt;/p&gt;
+
+&lt;h2 id=&quot;deaf-outreach&quot;&gt;Deaf Outreach&lt;/h2&gt;
+
+&lt;p&gt;Once we had captioning and ASL settled, we wanted Deaf programmers to know PyGotham would be accessible to them. We published &lt;a href=&quot;https://2019.pygotham.org/2019/09/03/captioning-and-interpreting/&quot;&gt;a blog post&lt;/a&gt;, and with Sumana Harihareswara’s help we added &lt;a href=&quot;https://2019.pygotham.org/about/accessibility/&quot;&gt;a general accessibility statement&lt;/a&gt;. We updated our registration form to say we would provide ASL and captioning, and we added a checkbox asking participants if they would use ASL interpretation. Some people had registered already; we emailed them to ask if they would use ASL. (If we want to estimate demand more accurately next year we may ask attendees if they &lt;em&gt;require&lt;/em&gt; ASL interpreters. More likely we’ll decide to have interpreters in all the conference tracks regardless of demand.)&lt;/p&gt;
+
+&lt;p&gt;I asked my ASL interpreter friends for help marketing to Deaf programmers. Besides just Googling for groups in New York City, they told me to search in Washington, DC and Rochester, where there are communities of Deaf programmers centered around Gallaudet University and the Rochester Institute of Technology’s National Technical Institute for the Deaf. We contacted the appropriate departments at those schools and at California State University Northridge, plus &lt;a href=&quot;https://esad.org/&quot;&gt;Empire State Association of the Deaf&lt;/a&gt;, &lt;a href=&quot;http://deaftec.org/&quot;&gt;DeafTEC&lt;/a&gt;, &lt;a href=&quot;https://deafingov.org&quot;&gt;Deaf in Government&lt;/a&gt;, &lt;a href=&quot;http://nycbda.weebly.com/&quot;&gt;NYC Black Deaf Advocates&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/groups/B.G.DCABDA/&quot;&gt;DC Area Black Deaf Advocates&lt;/a&gt;, &lt;a href=&quot;https://www.meetup.com/NYCASL/about/&quot;&gt;NYCASL&lt;/a&gt;, &lt;a href=&quot;https://www.deafkidscode.org/&quot;&gt;Deaf Kids Code&lt;/a&gt;, and others. To each group PyGotham offered a unique registration code for free tickets for the first five members of the group who signed up, and a second registration code that gave a 20% discount for any number of tickets.&lt;/p&gt;
+
+&lt;p&gt;As a result, we think there were six ASL users at the conference. It’s a terrific start, and a foundation for improving our outreach next year. In 2020 we plan to begin outreach earlier and market to more groups. We can talk more on social media about PyGotham’s accessibility, and ask Deaf organizations and schools to help us spread the word. We’ll put a sign language interpretation logo like this one on our website and registration pages:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/posts/asl-interpretation-symbol.png&quot; alt=&quot;ASL intepretation logo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gathering-captioningasl-prep-materials&quot;&gt;Gathering Captioning/ASL Prep Materials&lt;/h2&gt;
+
+&lt;p&gt;We wanted to make our captioners’ and interpreters’ jobs easier by gathering information about PyGotham talks ahead of time. Our main concern was unfamiliar words, such as technical jargon, names of people and places, and so on. If a speaker mentioned “Raspberry Pi” or “Jupyter Notebook”, our goal was ensure it would be typed and signed correctly. We made a form for speakers to share prep materials:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/posts/talk-accessibility-form.png&quot; alt=&quot;Google Form asking speakers to upload outlines or slides&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We emailed speakers about general logistics several times in the months before the conference, and reminded them about the form each time. Half our speakers submitted the form, which left us with about 30 talks that had no updated prep material available. As a fallback, we used the original outlines the speakers submitted with their talk proposals. We arranged the prep materials into Google Drive folders, with a folder per room per day, so captioners and interpreters could find each talk’s materials when it was time for them to prepare. They reported that having materials ahead of time was a great help.&lt;/p&gt;
+
+&lt;h2 id=&quot;conference-logistics&quot;&gt;Conference Logistics&lt;/h2&gt;
+&lt;h3 id=&quot;captioning&quot;&gt;Captioning&lt;/h3&gt;
+
+&lt;p&gt;White Coat Captioning provided live captioning in all three conference rooms. The captions were displayed on big TVs to one side of the stage. To save on travel costs, we assigned our local captioner Mirabai Knight to the big room and had remote staff caption the other two rooms. Mirabai sat in front where she could see the speaker and the slides, and she had an audio feed from the speaker’s mic, through the mixing board, to her headphones. She brought a laptop, which we connected to the TV to show her captions.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The live captioning for &lt;a href=&quot;https://twitter.com/SagnewShreds?ref_src=twsrc%5Etfw&quot;&gt;@SagnewShreds&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/PyGotham?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#PyGotham&lt;/a&gt; talk on generating music is so good &lt;a href=&quot;https://t.co/2DFxLebcTy&quot;&gt;pic.twitter.com/2DFxLebcTy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kelley Robinson (@kelleyrobinson) &lt;a href=&quot;https://twitter.com/kelleyrobinson/status/1180582679114219524?ref_src=twsrc%5Etfw&quot;&gt;October 5, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The two remotely-captioned rooms needed two laptops each. We connected one laptop to the audio feed and made a private Google Hangout to transmit the sound to the captioner. The other laptop was connected to the TV and displayed the captions via a web app. One laptop could theoretically do both jobs, but White Coat advised us that separate laptops were more reliable.&lt;/p&gt;
+
+&lt;p&gt;White Coat sent us detailed A/V instructions and warned us that if Mirabai sat more than 30 feet from the TV we’d need special HDMI gear to connect her laptop. We gave our A/V company lots of advance notice about our requirements, and we coordinated with White Coat to test remote captioning the afternoon before the conference.&lt;/p&gt;
+
+&lt;h3 id=&quot;asl&quot;&gt;ASL&lt;/h3&gt;
+
+&lt;p&gt;Sign language interpreters need to switch off every half hour to rest their hands and brains, so we hired six interpreters to cover our three tracks on both days. Lydia Callis Interpreting Services assigned one interpreter as the team lead; he was the main liaison between the interpreters and PyGotham. (If the team lead was in a session and needed our attention he texted me, and I would proxy his message to the PyGotham team’s Slack. Next year we’ll seek a better way to communicate.)&lt;/p&gt;
+
+&lt;p&gt;Two interpreters came early to staff the registration desk and to interpret for Deaf attendees at the conference breakfast; they interpreted the opening keynote as well. The other four interpreters came later when our full three-track schedule began.&lt;/p&gt;
+
+&lt;p&gt;We placed “ASL” signs to reserve seats in each room for ASL users, clustered at the front to one side near the interpreter. As rooms filled, the interpreters removed the signs to release seats that Deaf attendees weren’t using. They put the signs back before the next session.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/PyGothamNot?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#PyGothamNot&lt;/a&gt; only does &lt;a href=&quot;https://twitter.com/hashtag/PyGotham?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#PyGotham&lt;/a&gt; have captioning, they are going to have live ASL interpreters with reserved seats for those who need it to have prime viewing angles. Excelsior! &lt;a href=&quot;https://t.co/GhccBU3mJQ&quot;&gt;pic.twitter.com/GhccBU3mJQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Wanda W. Naylor (@hk125504) &lt;a href=&quot;https://twitter.com/hk125504/status/1180136365641494529?ref_src=twsrc%5Etfw&quot;&gt;October 4, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;post-conference&quot;&gt;Post-conference&lt;/h2&gt;
+
+&lt;p&gt;The day after PyGotham, White Coat Captioning sent us a plain text caption file for each session:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/posts/caption-file.png&quot; alt=&quot;Plain text file containing transcript of a PyGotham talk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We added these as closed captions when we published the PyGotham talks to YouTube. It’s possible to &lt;a href=&quot;https://support.google.com/youtube/answer/2734796?hl=en&quot;&gt;upload captions for each video one-by-one&lt;/a&gt;, but of course we wrote &lt;a href=&quot;https://gitlab.com/pygotham/utils/blob/e15a4865e3f6ddc2211f331790f285a0994d023b/youtube/youtube-update.py&quot;&gt;a Python program to publish videos with captions in bulk&lt;/a&gt;. YouTube attempts to automatically sync the human-written captions with the video using voice recognition; this is far from perfect, but it’s a practical alternative to manually time-coding the captions for each video.&lt;/p&gt;
+
+&lt;h2 id=&quot;outcome&quot;&gt;Outcome&lt;/h2&gt;
+
+&lt;p&gt;This year we provided captioning for the first time in several years, and it was our first experience ever with sign language interpretation. It seemed risky to do both, but we decided to go for broke. It was far smoother than I had expected, thanks to the professionalism of White Coat Captioning and Lydia Callis Interpreting Services. One of our Deaf attendees, Mel Chua, wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Thank you so much for a transformative conference experience. I wish they were all like this. I’ve seriously never been at anything like that before—even at conferences where the organizers “assign” me interpreters, I’ve still needed to manage them and also spend a lot of time being The Deaf Attendee in the space unless I choose to speak (which is more tiring). Being able to show up &lt;strong&gt;and&lt;/strong&gt; be Deaf &lt;strong&gt;and&lt;/strong&gt; feel “normal” at a tech conference—that was such a gift.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our lead interpreter texted me during the conference:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We have several Deaf people here. One of them said that he’s so happy that there are interpreters in every room because in the past when he went to conferences the Deaf attendees had to pick which sessions they wanted to see and decide as a group which to go to, which often resulted in missing out on seeing some sessions he really wanted to see.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There is plenty we can improve next year. We should spread the word more effectively to Deaf programmers, gather prep materials from more of our speakers, and ensure we have ASL interpreters available during every break period.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, I’m deeply proud of what PyGotham achieved this year. Attendees who are hard of hearing or speak English as a second language benefitted from captioning, and so did many other attendees. Because we hired live captioners, this year’s videos will have accurate captions for the first time. And our sign language interpreters made PyGotham accessible to ASL users who could not have attended otherwise.&lt;/p&gt;
+
+&lt;p&gt;I want to inspire other tech conferences to provide even better access than we did. I hope this recap is a useful guide. &lt;a href=&quot;mailto:jesse@pygotham.org&quot;&gt;Please write me&lt;/a&gt; if you’re planning captioning and ASL at your conference.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Deaf programmers at &lt;a href=&quot;https://twitter.com/hashtag/PyGotham?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#PyGotham&lt;/a&gt;: Alessandro Ryan &lt;a href=&quot;https://twitter.com/OrangeEarths?ref_src=twsrc%5Etfw&quot;&gt;@orangeearths&lt;/a&gt;, Mel Chua &lt;a href=&quot;https://twitter.com/mchua?ref_src=twsrc%5Etfw&quot;&gt;@mchua&lt;/a&gt;, Margaret Arnold &lt;a href=&quot;https://twitter.com/BroomAirways?ref_src=twsrc%5Etfw&quot;&gt;@BroomAirways&lt;/a&gt;, Timothy Linceford-Stevens&lt;a href=&quot;https://twitter.com/hashtag/DeafInTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#DeafInTech&lt;/a&gt; &lt;a href=&quot;https://t.co/gmJAhlw4GR&quot;&gt;pic.twitter.com/gmJAhlw4GR&lt;/a&gt;&lt;/p&gt;&amp;mdash; A. Jesse Jiryu Davis (@jessejiryudavis) &lt;a href=&quot;https://twitter.com/jessejiryudavis/status/1180589286246113280?ref_src=twsrc%5Etfw&quot;&gt;October 5, 2019&lt;/a&gt;&lt;/blockquote&gt;</content><author><name>PyGotham</name></author><summary type="html">At PyGotham 2019 we provided live captioning and, for the first time, we offered American Sign Language interpretation and did targeted outreach to groups of Deaf programmers. As a result, we had a half-dozen Deaf attendees, and they reported they were able to fully participate in the conference in a way they hadn’t experienced before. I (A. Jesse Jiryu Davis) led our effort to provide ASL and captioning; I hope this recap can serve as a playbook for other conferences.</summary></entry><entry><title type="html">Captioning and ASL Interpreters</title><link href="https://2019.pygotham.org/2019/09/03/captioning-and-interpreting/" rel="alternate" type="text/html" title="Captioning and ASL Interpreters" /><published>2019-09-03T04:00:00+00:00</published><updated>2019-09-03T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/09/03/captioning-and-interpreting</id><content type="html" xml:base="https://2019.pygotham.org/2019/09/03/captioning-and-interpreting/">&lt;p&gt;This year, PyGotham will provide both live captioning (CART) and American Sign
+Language (ASL) interpretation. This ensures our conference is accessible to Deaf
+and hard of hearing attendees, and brings a bunch of additional benefits:
+&lt;!--more--&gt; Captioning talks makes them easier to follow for anyone who speaks
+English as a second language, and it can help if you didn’t understand something
+the speaker said, or if your attention lapsed for a few seconds. After the
+conference, we can use the captioners’ live transcripts as subtitles when we
+upload videos.&lt;/p&gt;
+
+&lt;p&gt;All talks in all three tracks, plus keynotes and lightning talks, will be live
+captioned and interpreted. If you would like us direct you to interpreters
+on-site, please check the “ASL” box &lt;a href=&quot;/registration/&quot;&gt;when you register&lt;/a&gt;. If you registered already and weren’t presented with
+additional questions or didn’t check the box, you can edit your response through
+the “manage your order” link in your confirmation email. If you have any
+questions about PyGotham’s accessibility, please email
+&lt;a href=&quot;mailto:organizers@pygotham.org&quot;&gt;organizers@pygotham.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our generous &lt;a href=&quot;/sponsors/&quot;&gt;sponsors&lt;/a&gt; and attendees
+who made this possible. If you’d like to support these efforts, reach out to
+&lt;a href=&quot;mailto:sponsors@pygotham.org&quot;&gt;sponsors@pygotham.org&lt;/a&gt;. We haven’t provided
+captioning and ASL interpretation to this degree before and we expect to make
+mistakes, but we’re excited to make PyGotham 2019 the most accessible ever.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">This year, PyGotham will provide both live captioning (CART) and American Sign Language (ASL) interpretation. This ensures our conference is accessible to Deaf and hard of hearing attendees, and brings a bunch of additional benefits:</summary></entry><entry><title type="html">Talk schedule now available!</title><link href="https://2019.pygotham.org/2019/08/19/talk-schedule-now-available/" rel="alternate" type="text/html" title="Talk schedule now available!" /><published>2019-08-19T14:00:00+00:00</published><updated>2019-08-19T14:00:00+00:00</updated><id>https://2019.pygotham.org/2019/08/19/talk-schedule-now-available</id><content type="html" xml:base="https://2019.pygotham.org/2019/08/19/talk-schedule-now-available/">&lt;p&gt;The PyGotham 2019 &lt;a href=&quot;/talks/schedule/&quot;&gt;talk schedule&lt;/a&gt; is now available. It
+features three tracks spread across October 4th and 5th.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This year’s program features 65 speakers giving 63 talks covering a wide
+array of topics, from application design to data science to natural language
+processing to web development. There will also be three keynote talks and
+lightning talks.&lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone who submitted a talk, voted on talks, or signed up for
+the program committee.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">The PyGotham 2019 talk schedule is now available. It features three tracks spread across October 4th and 5th.</summary></entry><entry><title type="html">Talk list now available!</title><link href="https://2019.pygotham.org/2019/07/16/talk-list-now-available/" rel="alternate" type="text/html" title="Talk list now available!" /><published>2019-07-16T14:00:00+00:00</published><updated>2019-07-16T14:00:00+00:00</updated><id>https://2019.pygotham.org/2019/07/16/talk-list-now-available</id><content type="html" xml:base="https://2019.pygotham.org/2019/07/16/talk-list-now-available/">&lt;p&gt;The PyGotham 2019 &lt;a href=&quot;/talks/&quot;&gt;talk list&lt;/a&gt; is now available. It features three
+tracks spread across October 4th and 5th.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This year’s program features 65 speakers giving 63 talks covering a wide
+array of topics, from application design to data science to natural language
+processing to web development. There will also be three keynote talks and
+lightning talks.&lt;/p&gt;
+
+&lt;p&gt;We’re really excited about this year’s talks and hope to have a schedule
+ready in the next few weeks.&lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone who submitted a talk, voted on talks, or signed up for
+the program committee.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">The PyGotham 2019 talk list is now available. It features three tracks spread across October 4th and 5th.</summary></entry><entry><title type="html">Keynote: Meg Ray</title><link href="https://2019.pygotham.org/2019/06/04/keynote-meg-ray/" rel="alternate" type="text/html" title="Keynote: Meg Ray" /><published>2019-06-04T04:00:00+00:00</published><updated>2019-06-04T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/06/04/keynote-meg-ray</id><content type="html" xml:base="https://2019.pygotham.org/2019/06/04/keynote-meg-ray/">&lt;p&gt;Meg Ray is a freelance educational consultant. She was the founding Teacher in Residence at Cornell
+Tech were she was responsible for the implementation and design of a coaching program for K-8 CS
+teachers in New York City schools. &lt;!--more--&gt; Meg served as a writer/advisor for the national CSTA
+K-12 CS Standards, the CSTA/ISTE Computer Science Educator Standards, and the K12 CS Framework. She
+is an experienced high school computer science teacher and special educator as well as a
+graduate-level instructor at Hunter College. Previously, Meg created the Raspberry-Pi-in-a-box
+program for Cornell Tech and directed the design of an online middle school Python programming
+course for Codesters. Her research on CS teacher training and CS instruction for students with
+disabilities is published in academic journals and conference proceedings. Meg gave the keynote at
+the Education Summit at Pycon 2019 and is the author of the forthcoming introduction to Python book
+Code this Game!&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">Meg Ray is a freelance educational consultant. She was the founding Teacher in Residence at Cornell Tech were she was responsible for the implementation and design of a coaching program for K-8 CS teachers in New York City schools.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2019.pygotham.org/uploads/posts/meg-ray.jpg" /></entry><entry><title type="html">Keynote: Kojo Idrissa</title><link href="https://2019.pygotham.org/2019/05/28/keynote-kojo-idrissa/" rel="alternate" type="text/html" title="Keynote: Kojo Idrissa" /><published>2019-05-28T04:00:00+00:00</published><updated>2019-05-28T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/05/28/keynote-kojo-idrissa</id><content type="html" xml:base="https://2019.pygotham.org/2019/05/28/keynote-kojo-idrissa/">&lt;p&gt;Kojo Idrissa &lt;em&gt;was&lt;/em&gt; an accountant who got an MBA and taught at university in two different countries.
+He’s &lt;em&gt;now&lt;/em&gt; a  software engineer, international tech conference speaker, DjangoCon US organizer and
+the &lt;a href=&quot;https://www.defna.org/&quot;&gt;DEFNA&lt;/a&gt; North American Ambassador
+(&lt;a href=&quot;https://twitter.com/search?q=%23NorAmGT&amp;amp;src=tyah&quot;&gt;#NorAmGT&lt;/a&gt;). &lt;!--more--&gt; He’s spoken at tech
+conferences about software engineering practices, spreadsheets, contributing to tech communities,
+Dungeons &amp;amp; Dragons, inclusion and privilege. You can find him online at &lt;a href=&quot;http://kojoidrissa.com/&quot;&gt;http://kojoidrissa.com/&lt;/a&gt; or
+as &lt;a href=&quot;https://twitter.com/Transition&quot;&gt;@transition&lt;/a&gt; on Twitter.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">Kojo Idrissa was an accountant who got an MBA and taught at university in two different countries. He’s now a software engineer, international tech conference speaker, DjangoCon US organizer and the DEFNA North American Ambassador (#NorAmGT).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2019.pygotham.org/uploads/posts/kojo-idrissa.jpg" /></entry><entry><title type="html">Keynote: Piper Thunstrom</title><link href="https://2019.pygotham.org/2019/05/21/keynote-piper-thunstrom/" rel="alternate" type="text/html" title="Keynote: Piper Thunstrom" /><published>2019-05-21T04:00:00+00:00</published><updated>2019-05-21T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/05/21/keynote-piper-thunstrom</id><content type="html" xml:base="https://2019.pygotham.org/2019/05/21/keynote-piper-thunstrom/">&lt;p&gt;Piper Thunstrom is a web developer currently working as a Software Engineer at GLG. For the past 3
+years, she’s been working on ppb, an education focused game library. &lt;!--more--&gt; She’s been talking
+about making video games since 2014 (with 3 talks on the topic at previous PyGothams!). Piper has
+spent time as an organizer in the NYC Python community. She’s proudly and visibly queer and has
+talked about her experience transitioning while being a public figure. Her current focus is building
+open curriculum and better documentation for ppb.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">Piper Thunstrom is a web developer currently working as a Software Engineer at GLG. For the past 3 years, she’s been working on ppb, an education focused game library.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://2019.pygotham.org/uploads/posts/piper-thunstrom.jpg" /></entry><entry><title type="html">Introducing Yak-Bak</title><link href="https://2019.pygotham.org/2019/04/22/introducing-yak-bak/" rel="alternate" type="text/html" title="Introducing Yak-Bak" /><published>2019-04-22T04:00:00+00:00</published><updated>2019-04-22T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/04/22/introducing-yak-bak</id><content type="html" xml:base="https://2019.pygotham.org/2019/04/22/introducing-yak-bak/">&lt;p&gt;You may have noticed that PyGotham’s &lt;a href=&quot;https://cfp.pygotham.org&quot;&gt;call for proposals&lt;/a&gt;
+site looks different this year. That’s &lt;a href=&quot;https://gitlab.com/bigapplepy/yak-bak/&quot;&gt;Yak-Bak&lt;/a&gt;,
+the new system we’re building to run our call for proposals in its entirety,
+including accepting proposals, anonymization, public voting and review, and talk
+selection. We’d love your feedback, and if you organize a conference that shares
+PyGotham’s CFP goals, we hope this tool will make your proposals process easier all
+around.&lt;/p&gt;
+
+&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
+
+&lt;p&gt;Since starting in 2011, PyGotham has used four different CFP setups: two that were
+part of two different conference website packages,
+&lt;a href=&quot;https://www.papercall.io/&quot;&gt;PaperCall&lt;/a&gt;, and now Yak-Bak. We switched to a &lt;a href=&quot;https://gitlab.com/pygotham/2019/&quot;&gt;static
+website generator&lt;/a&gt; in 2017 to simplify the site’s
+hosting needs and free up time to focus on other parts of running the conference. In
+2017 and 2018, we used PaperCall for our CFP. We had a great experience with it and
+will happily recommend it to smaller conferences. PaperCall significantly eased the
+process of collecting proposals, but we supplemented it with additional tools both
+years to help implement our voting, anonymization, and selection process.&lt;/p&gt;
+
+&lt;h2 id=&quot;pygothams-cfp-process&quot;&gt;PyGotham’s CFP process&lt;/h2&gt;
+
+&lt;p&gt;The details of this process continue to evolve, but they always center
+around the following stages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Accepting proposals&lt;/strong&gt; is a minimum requirement. We aim to balance ease of
+proposing a talk against encouraging high quality proposals and allowing
+for effective and efficient talk review. We require a title and public
+description (for the conference program), but also request an outline and
+note about what the audience will learn from a talk. These fields help
+crystallize the intent and content of the talk to the speaker, and we find
+it makes proposals stronger and easier for the program committee to
+understand.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Public voting&lt;/strong&gt; helps inform our program committee of relative popularity
+for the purposes of talk selection and schedule balancing. This is one of
+the core features that led to the development of Yak-Bak.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Anonymous review&lt;/strong&gt; is crucial to removing bias from the talk selection
+process. A first class anonymous voting and review feature should hide
+names by default and support redaction of company or project names, and
+other potentially identifying content from proposal content.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2017 and 2018, we accepted talk proposals via PaperCall and used other
+off the shelf and customized tools for review and voting. These were all
+connected by one-off migration scripts between each stage. In order to
+effectively review 250+ proposals each year, we need everything under one
+roof. We also used this as an opportunity to address some features high on
+our wish list, including multiple presenters on a talk and a proposal form
+more tailored to our needs.&lt;/p&gt;
+
+&lt;h2 id=&quot;enter-yak-bak&quot;&gt;Enter Yak-Bak&lt;/h2&gt;
+
+&lt;p&gt;Yak-Bak is an opinionated tool designed to support PyGotham’s CFP and talk
+selection process fully out of the box. PyGotham 2019 marks its first
+production use. In the future, we’d like to offer this as a managed service
+for conference organizers. If you’d like to support that effort, you can:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Send us feedback at &lt;a href=&quot;mailto:yak-bak@bigapplepy.org&quot;&gt;yak-bak@bigapplepy.org&lt;/a&gt;.
+If you’re a user proposing a talk, let us know what you liked and didn’t
+like about the process.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/bigapplepy/yak-bak/&quot;&gt;Contribute&lt;/a&gt; to the project. Open an
+issue, fix a bug, weigh in on discussions, etc. Everything helps. Yak-Bak, like
+PyGotham, is built for the community by the community.&lt;/li&gt;
+  &lt;li&gt;Yak-Bak should adapt to the branding of conferences that use it. If you
+have experience designing and building multi-tenant systems, we’d like
+your help and advice making the content management components right.&lt;/li&gt;
+  &lt;li&gt;If you’re a conference organizer and would like to see more and consider
+using it for your conference, get in touch to discuss details.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have questions that aren’t answered in this post, or if you’d just
+like to talk more about Yak-Bak in general, feel free to reach out.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">You may have noticed that PyGotham’s call for proposals site looks different this year. That’s Yak-Bak, the new system we’re building to run our call for proposals in its entirety, including accepting proposals, anonymization, public voting and review, and talk selection. We’d love your feedback, and if you organize a conference that shares PyGotham’s CFP goals, we hope this tool will make your proposals process easier all around.</summary></entry><entry><title type="html">PyGotham 2019 is Six Months Away!</title><link href="https://2019.pygotham.org/2019/04/01/pygotham-2019/" rel="alternate" type="text/html" title="PyGotham 2019 is Six Months Away!" /><published>2019-04-01T04:00:00+00:00</published><updated>2019-04-01T04:00:00+00:00</updated><id>https://2019.pygotham.org/2019/04/01/pygotham-2019</id><content type="html" xml:base="https://2019.pygotham.org/2019/04/01/pygotham-2019/">&lt;p&gt;PyGotham is back for 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pygotham2019.eventbrite.com&quot;&gt;Tickets&lt;/a&gt; are available now. Get your early bird tickets
+while they last.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://cfp.pygotham.org&quot;&gt;Call for Proposals&lt;/a&gt; is open until
+May 12th, 2019 &lt;a href=&quot;https://time.is/Anywhere_on_Earth&quot;&gt;Anywhere on Earth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sponsorship information can be found on the
+&lt;a href=&quot;/sponsors/prospectus/&quot;&gt;sponsorship prospectus page&lt;/a&gt;.&lt;/p&gt;</content><author><name>PyGotham</name></author><summary type="html">PyGotham is back for 2019.</summary></entry></feed>

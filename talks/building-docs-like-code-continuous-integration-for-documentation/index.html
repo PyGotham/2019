@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Building Docs Like Code: Continuous Integration for Documentation - PyGotham 2019</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/styles/site.css?1598642381575425378">
+
+    <link rel="icon" href="/static/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="/static/images/apple-touch-icon.png">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link type="application/atom+xml" rel="alternate" href="https://2019.pygotham.org/feed.xml" title="PyGotham 2019" />
+  </head>
+  <body class="talk">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a href="/" class="navbar-brand">
+        <img src="/static/images/logo.svg" alt="PyGotham 2019">
+      </a>
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+        data-target="#pg-navbar-collapse" aria-controls="pg-navbar-collapse"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end" id="pg-navbar-collapse">
+        <ul class="navbar-nav">
+          
+          <li class="nav-item dropdown">
+            <a href="/about/" class="dropdown-toggle"
+              data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              About
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              <a href="/about/" class="dropdown-item">What is
+                PyGotham?</a>
+              <a href="/about/accessibility/"
+                class="dropdown-item">Accessibility</a>
+              <a href="/about/childcare/" class="dropdown-item">Childcare</a>
+              <a href="/about/code-of-conduct/"
+                class="dropdown-item">Code of Conduct</a>
+              <a href="/about/diversity/"
+                class="dropdown-item">Diversity</a>
+              <a href="/about/privacy-policy/"
+                class="dropdown-item">Privacy Policy</a>
+              <a href="/about/faq/" class="dropdown-item">FAQ</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+              role="button" aria-haspopup="true" aria-expanded="false">
+              Events
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              
+              
+                <a href="/talks/" class="dropdown-item">Talk
+                  List</a>
+                
+                
+                  <a href="/talks/schedule/"
+                    class="dropdown-item">Talk Schedule</a>
+                
+              
+              <a href="/events/socialevent/"
+                class="dropdown-item">Social Event</a>
+              
+              
+            </div>
+          </li>
+
+          
+          <li class="nav-item"><a href="/registration/">Registration</a></li>
+
+          
+            <li class="nav-item">
+              <a href="https://cfp.pygotham.org">Call for Proposals</a>
+            </li>
+          
+
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="/sponsors/" class="dropdown-toggle"
+              data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              Sponsors
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              <a href="/sponsors/"
+                class="dropdown-item">Sponsors</a>
+              <a href="/sponsors/prospectus/"
+                class="dropdown-item">Prospectus</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item"><a href="/venue/">Venue</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <section class="main">
+  <div class="container">
+    
+      <h1>Building Docs Like Code: Continuous Integration for Documentation</h1>
+    
+
+    
+  <small>
+    1:00pm
+    
+      
+      - 1:25pm
+    
+    on Friday, October 4
+    
+      in PennTop North
+    
+  </small>
+
+
+<h4>
+  
+    
+    <a href="/speakers/mason-egger/">Mason Egger</a>
+  
+</h4>
+
+<dl>
+  
+
+  
+    <dt>Slides:</dt>
+    <dd><a href="https://masonegger.com/talks/ci-docs/">https://masonegger.com/talks/ci-docs/</a></dd>
+  
+
+  
+    <dt>Watch:</dt>
+    <dd><a href="https://youtu.be/wEt_8twQctQ">https://youtu.be/wEt_8twQctQ</a></dd>
+  
+</dl>
+
+
+
+
+
+<h3>Description</h3>
+<h1 id="abstract">Abstract</h1>
+
+<p>Project documentation is easy to neglect. Keep your docs inside your
+source repo &amp; learn how to automatically build &amp; publish beautiful docs
+on every commit. Viewers will leave with a new mindset on how to handle
+documentation, tooling for this process, &amp; an easy-to-implement method
+to achieve this.</p>
+
+<h1 id="description">Description</h1>
+
+<p>It is common for developers to overlook the documentation of their
+works. They are either on a time crunch, lack the proper tooling, or
+simply just forget to create and update the documentation. Whatever the
+cause behind this, it is not a proper excuse for not keeping the
+documentation up to date. However, for all our development processes
+there are few as neglected as the documentation process. Documentation
+should be treated as important as the code that makes up the project.
+So, let’s move the documentation into the code. With modern
+documentation tools such as MkDocs and Sphinx, both of which are Python
+powered tools, and Continuous Integration tools we can now include docs
+in the commit. They can be reviewed in code reviews, built and versioned
+in a CI tool, and even tested for things such as correct code examples
+and broken links. This is the process that the developer knows,
+understands, and enjoys. I introduced a team to this exact workflow and
+a working pipeline; all they had to do was keep the documentation up to
+date. This team currently has some of the most up to date documentation
+in a company of near two thousand engineers, and they never complain
+about writing/updating documentation. It’s just part of the workflow.</p>
+
+
+
+  </div>
+</section>
+
+
+    <div class="edit-this-page">
+      <a href="https://gitlab.com/pygotham/2019/edit/master/_talks/building-docs-like-code-continuous-integration-for-documentation.md">
+        Want to edit this page?
+      </a>
+    </div>
+
+    <footer>
+      <section class="container credits">
+        PyGotham 2019 is a production of
+        <a href="https://bigapplepy.org">Big Apple Py</a>.<br>
+
+        Artwork by <a href="https://www.jessiesima.com">Jessie Sima</a>. UX by
+        <a href="https://www.linkedin.com/in/allisonrcameron">
+          Allison Cameron</a>.
+
+        <br>
+
+        Questions? Comments? Please contact
+        <a href="mailto:organizers@pygotham.org">organizers@pygotham.org</a>.<br>
+        
+          <a href="https://gitlab.com/pygotham/2019">Help improve this site!</a>
+        
+      </section>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="/static/scripts/bootstrap.min.js"></script>
+    <script>
+      var today = new Date();
+      $('div.day-of').each(function() {
+        var $this = $(this);
+
+        var start = new Date($this.data('start'));
+        var end = new Date($this.data('end'));
+
+        if (start <= today && today < end) {
+          $this.show();
+        }
+      });
+    </script>
+  </body>
+</html>

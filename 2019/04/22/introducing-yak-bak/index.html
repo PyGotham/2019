@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Introducing Yak-Bak - PyGotham 2019</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/styles/site.css?1598642381575425378">
+
+    <link rel="icon" href="/static/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="/static/images/apple-touch-icon.png">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link type="application/atom+xml" rel="alternate" href="https://2019.pygotham.org/feed.xml" title="PyGotham 2019" />
+  </head>
+  <body class="introducing-yak-bak">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a href="/" class="navbar-brand">
+        <img src="/static/images/logo.svg" alt="PyGotham 2019">
+      </a>
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+        data-target="#pg-navbar-collapse" aria-controls="pg-navbar-collapse"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-end" id="pg-navbar-collapse">
+        <ul class="navbar-nav">
+          
+          <li class="nav-item dropdown">
+            <a href="/about/" class="dropdown-toggle"
+              data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              About
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              <a href="/about/" class="dropdown-item">What is
+                PyGotham?</a>
+              <a href="/about/accessibility/"
+                class="dropdown-item">Accessibility</a>
+              <a href="/about/childcare/" class="dropdown-item">Childcare</a>
+              <a href="/about/code-of-conduct/"
+                class="dropdown-item">Code of Conduct</a>
+              <a href="/about/diversity/"
+                class="dropdown-item">Diversity</a>
+              <a href="/about/privacy-policy/"
+                class="dropdown-item">Privacy Policy</a>
+              <a href="/about/faq/" class="dropdown-item">FAQ</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+              role="button" aria-haspopup="true" aria-expanded="false">
+              Events
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              
+              
+                <a href="/talks/" class="dropdown-item">Talk
+                  List</a>
+                
+                
+                  <a href="/talks/schedule/"
+                    class="dropdown-item">Talk Schedule</a>
+                
+              
+              <a href="/events/socialevent/"
+                class="dropdown-item">Social Event</a>
+              
+              
+            </div>
+          </li>
+
+          
+          <li class="nav-item"><a href="/registration/">Registration</a></li>
+
+          
+            <li class="nav-item">
+              <a href="https://cfp.pygotham.org">Call for Proposals</a>
+            </li>
+          
+
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="/sponsors/" class="dropdown-toggle"
+              data-toggle="dropdown" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              Sponsors
+              <span class="caret"></span>
+            </a>
+
+            <div class="dropdown-menu">
+              <a href="/sponsors/"
+                class="dropdown-item">Sponsors</a>
+              <a href="/sponsors/prospectus/"
+                class="dropdown-item">Prospectus</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item"><a href="/venue/">Venue</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <section class="main">
+  <div class="container">
+    
+      <h1>Introducing Yak-Bak</h1>
+    
+
+    
+
+
+
+<p>You may have noticed that PyGotham’s <a href="https://cfp.pygotham.org">call for proposals</a>
+site looks different this year. That’s <a href="https://gitlab.com/bigapplepy/yak-bak/">Yak-Bak</a>,
+the new system we’re building to run our call for proposals in its entirety,
+including accepting proposals, anonymization, public voting and review, and talk
+selection. We’d love your feedback, and if you organize a conference that shares
+PyGotham’s CFP goals, we hope this tool will make your proposals process easier all
+around.</p>
+
+<h2 id="history">History</h2>
+
+<p>Since starting in 2011, PyGotham has used four different CFP setups: two that were
+part of two different conference website packages,
+<a href="https://www.papercall.io/">PaperCall</a>, and now Yak-Bak. We switched to a <a href="https://gitlab.com/pygotham/2019/">static
+website generator</a> in 2017 to simplify the site’s
+hosting needs and free up time to focus on other parts of running the conference. In
+2017 and 2018, we used PaperCall for our CFP. We had a great experience with it and
+will happily recommend it to smaller conferences. PaperCall significantly eased the
+process of collecting proposals, but we supplemented it with additional tools both
+years to help implement our voting, anonymization, and selection process.</p>
+
+<h2 id="pygothams-cfp-process">PyGotham’s CFP process</h2>
+
+<p>The details of this process continue to evolve, but they always center
+around the following stages:</p>
+
+<ul>
+  <li><strong>Accepting proposals</strong> is a minimum requirement. We aim to balance ease of
+proposing a talk against encouraging high quality proposals and allowing
+for effective and efficient talk review. We require a title and public
+description (for the conference program), but also request an outline and
+note about what the audience will learn from a talk. These fields help
+crystallize the intent and content of the talk to the speaker, and we find
+it makes proposals stronger and easier for the program committee to
+understand.</li>
+  <li><strong>Public voting</strong> helps inform our program committee of relative popularity
+for the purposes of talk selection and schedule balancing. This is one of
+the core features that led to the development of Yak-Bak.</li>
+  <li><strong>Anonymous review</strong> is crucial to removing bias from the talk selection
+process. A first class anonymous voting and review feature should hide
+names by default and support redaction of company or project names, and
+other potentially identifying content from proposal content.</li>
+</ul>
+
+<p>In 2017 and 2018, we accepted talk proposals via PaperCall and used other
+off the shelf and customized tools for review and voting. These were all
+connected by one-off migration scripts between each stage. In order to
+effectively review 250+ proposals each year, we need everything under one
+roof. We also used this as an opportunity to address some features high on
+our wish list, including multiple presenters on a talk and a proposal form
+more tailored to our needs.</p>
+
+<h2 id="enter-yak-bak">Enter Yak-Bak</h2>
+
+<p>Yak-Bak is an opinionated tool designed to support PyGotham’s CFP and talk
+selection process fully out of the box. PyGotham 2019 marks its first
+production use. In the future, we’d like to offer this as a managed service
+for conference organizers. If you’d like to support that effort, you can:</p>
+
+<ul>
+  <li>Send us feedback at <a href="mailto:yak-bak@bigapplepy.org">yak-bak@bigapplepy.org</a>.
+If you’re a user proposing a talk, let us know what you liked and didn’t
+like about the process.</li>
+  <li><a href="https://gitlab.com/bigapplepy/yak-bak/">Contribute</a> to the project. Open an
+issue, fix a bug, weigh in on discussions, etc. Everything helps. Yak-Bak, like
+PyGotham, is built for the community by the community.</li>
+  <li>Yak-Bak should adapt to the branding of conferences that use it. If you
+have experience designing and building multi-tenant systems, we’d like
+your help and advice making the content management components right.</li>
+  <li>If you’re a conference organizer and would like to see more and consider
+using it for your conference, get in touch to discuss details.</li>
+</ul>
+
+<p>If you have questions that aren’t answered in this post, or if you’d just
+like to talk more about Yak-Bak in general, feel free to reach out.</p>
+
+
+  </div>
+</section>
+
+
+    <div class="edit-this-page">
+      <a href="https://gitlab.com/pygotham/2019/edit/master/_posts/2019-04-22-introducing-yak-bak.md">
+        Want to edit this page?
+      </a>
+    </div>
+
+    <footer>
+      <section class="container credits">
+        PyGotham 2019 is a production of
+        <a href="https://bigapplepy.org">Big Apple Py</a>.<br>
+
+        Artwork by <a href="https://www.jessiesima.com">Jessie Sima</a>. UX by
+        <a href="https://www.linkedin.com/in/allisonrcameron">
+          Allison Cameron</a>.
+
+        <br>
+
+        Questions? Comments? Please contact
+        <a href="mailto:organizers@pygotham.org">organizers@pygotham.org</a>.<br>
+        
+          <a href="https://gitlab.com/pygotham/2019">Help improve this site!</a>
+        
+      </section>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="/static/scripts/bootstrap.min.js"></script>
+    <script>
+      var today = new Date();
+      $('div.day-of').each(function() {
+        var $this = $(this);
+
+        var start = new Date($this.data('start'));
+        var end = new Date($this.data('end'));
+
+        if (start <= today && today < end) {
+          $this.show();
+        }
+      });
+    </script>
+  </body>
+</html>
